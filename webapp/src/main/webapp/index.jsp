@@ -26,7 +26,7 @@
     <br>
     
     <label for="lucky"><b>Enter Lucky number</b></label>
-    <input type="text" placeholder="Enter Lucky number" name="lucky" id="lucky" required>
+    <input type="text" placeholder="Enter your Lucky number" name="lucky" id="lucky" required>
     <br>
     
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
